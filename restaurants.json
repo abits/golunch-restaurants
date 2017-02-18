@@ -1,0 +1,60 @@
+{
+	"restaurants": [
+		{
+		    "location": "https://goo.gl/maps/seyaLKFRwc42",
+		    "name": "Lumen",
+		    "emoji": "bulb",
+		    "menu": "http://lumen-stuttgart.com/#mittag",
+		    "static": false
+		},
+		{
+		    "location": "https://goo.gl/maps/Rg9XAdKDGWL2",
+		    "name": "Metzgerei",
+		    "emoji": "fork_and_knife",
+		    "menu": "https://www.facebook.com/metzgereistuttgart/posts/?ref=page_internal",
+		    "static": false
+		},
+		{
+		    "location": "https://goo.gl/maps/YjNwwLQKkvD2",
+		    "name": "Stäffele",
+		    "emoji": "poultry_leg",
+		    "menu": "http://www.staeffele.de/speisekarte.html",
+		    "static": true
+		},
+		{
+		    "location": "https://goo.gl/maps/mAz2pPUwgZq",
+		    "name": "Trattoria Riva",
+		    "emoji": "pizza",
+		    "menu": "http://riva-trattoria.de/karte/",
+		    "static": false
+		},
+		{
+		    "location": "https://goo.gl/maps/Z39maXkY6At",
+		    "name": "Cafebar Auszeit",
+		    "emoji": "clock1",
+		    "menu": "http://geheimtippstuttgart.de/cafebar-auszeit/",
+		    "static": true
+		},
+		{
+		    "location": "https://goo.gl/maps/edpffyryhmC2",
+		    "name": "Café Moulu",
+		    "emoji": "coffee",
+		    "menu": "https://www.facebook.com/pg/cafemoulu/posts/?ref=page_internal",
+		    "static": true
+		},
+		{
+		    "location": "https://goo.gl/maps/WUZWEobdGi22",
+		    "name": "Rote Kapelle",
+		    "emoji": "church",
+		    "menu": "http://rote-kapelle.de/cashs/mittags.php",
+		    "static": false
+		},
+		{
+		    "location": "https://goo.gl/maps/vPVCAGphrmo",
+		    "name": "Kurose",
+		    "emoji": "sushi",
+		    "menu": "http://www.kurose-stuttgart.com/speise.html#mittags",
+		    "static": false
+		}
+	]
+}
